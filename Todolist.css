@@ -1,0 +1,44 @@
+.card{
+   
+    background-image:url("https://res.cloudinary.com/da48lsk9o/image/upload/v1767459244/todo-list-seamless-pattern-universal-background-vector-7561340_nns80e.jpg");
+    background-size:cover;
+    text-align:center;
+    height:50vh;
+    width:100vw;
+}
+.main-heading{
+    color:black;
+    font-family:roboto;
+    font-weight:bold;
+    font-style:normal;
+    font-size:36px;
+}
+.paragraph{
+    color:blue;
+    font-size:20px;
+}
+.side-heading{
+    color:black;
+    text-align:left;
+    font-size:20px;
+    font-weight:bold;
+    font-family:roboto;
+    font-style:normal;
+    }
+.paragraph2{
+    color:blue;
+    font-size:20px;
+}
+.button{
+    height:50px;
+    width:100px;
+
+    padding:20px;
+    text-align:center;
+    
+}
+.heading{
+    color:black;
+    text-align: center;
+    text-decoration:underline
+}
